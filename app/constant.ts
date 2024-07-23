@@ -1,4 +1,4 @@
-export const OWNER = "Yidadaa";
+export const OWNER = "ViffyGwaanl";
 export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
@@ -350,4 +350,5 @@ export const internalAllowedWebDavEndpoints = [
   "https://dav.idrivesync.com",
   "https://webdav.yandex.com",
   "https://app.koofr.net/dav/Koofr",
+  "https://gwaanl.ddns.me:5720/dav/百度网盘/apps/next/",
 ];
